@@ -1,14 +1,14 @@
 import React, { Component } from "react";
 import { Container } from "react-bootstrap";
 
-class Signup extends Component {
+class Home extends Component {
   render() {
     return (
       <Container>
-        <h1>Signup</h1>
+        <h1>Home COmponetnt 2</h1>
       </Container>
     );
   }
 }
 
-export default Signup;
+export default Home;
